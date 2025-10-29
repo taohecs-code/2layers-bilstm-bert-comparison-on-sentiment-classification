@@ -1,6 +1,7 @@
 # The Comparison of Transformer and Improved BiLSTM Model for Document-level Sentiment Analysis
 
 **Author:** Tao He 
+
 **Conference:** *2024 International Conference on Data Science and Engineering (ICDSE 2024), Singapore*  
 
 ---
